@@ -4,9 +4,10 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using BudgetMVC.Models;
 using BudgetApplication.Models;
 
-namespace BudgetApplication.Controllers
+namespace BudgetMVC.Controllers
 {
     public class HomeController : Controller
     {
